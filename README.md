@@ -1,2 +1,2 @@
 # Calc-app
-Forrest and John's Calculator app
+Forrest and John Rodriguez' Calculator app
